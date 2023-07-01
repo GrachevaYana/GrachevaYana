@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GrachevaYana
-- 👀 I’m interested in C#, Python, big data
+- 👀 I’m interested in SQL, Python, big data
 - 🌱 I’m currently learning few programming languages
 - ✨ My hobby is building data warehouses!
